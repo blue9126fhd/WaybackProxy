@@ -3,7 +3,7 @@ LISTEN_PORT = 8888
 
 # Date to get pages from Wayback. YYYYMMDD, YYYYMM and YYYY formats are
 # accepted, the more specific the better.
-DATE = '20011025' # <- Windows XP release date in case you're wondering
+DATE = '20161025' # <- Windows XP release date in case you're wondering
 
 # Allow the client to load pages and assets up to X days after DATE.
 # Set to None to disable this restriction.
